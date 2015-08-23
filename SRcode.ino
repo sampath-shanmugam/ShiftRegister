@@ -6,7 +6,6 @@ Authors:
 Suryoday Basak
 Sukrit Venkatagiri
 Sampath Shanmugam
-
 */
 
 int latch=10;
